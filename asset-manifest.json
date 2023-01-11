@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/My-App/static/css/main.6e459363.css",
+    "main.js": "/My-App/static/js/main.cf2d013f.js",
+    "static/js/787.a5fa54f9.chunk.js": "/My-App/static/js/787.a5fa54f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/My-App/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/instagram.png": "/My-App/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/bootstrap-icons.woff2?": "/My-App/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/add-friend.png": "/My-App/static/media/add-friend.17cdc5132789bb42d13b.png",
+    "static/media/rating.png": "/My-App/static/media/rating.cd8ce30db66fe63e1fd4.png",
+    "static/media/smartphone.png": "/My-App/static/media/smartphone.69b20901b37129b42cf9.png",
+    "static/media/sign-up.png": "/My-App/static/media/sign-up.064dbbd8db9cd698d801.png",
+    "static/media/about.png": "/My-App/static/media/about.4db8283272b421ca1921.png",
+    "static/media/twitter.png": "/My-App/static/media/twitter.a95d0077450203fdb8cc.png",
+    "static/media/edit.png": "/My-App/static/media/edit.60c4f53d340d7c84130f.png",
+    "static/media/new-arrival.png": "/My-App/static/media/new-arrival.cbbe0a1c6038b061ab66.png",
+    "static/media/social-network.png": "/My-App/static/media/social-network.7cdd6990c4910ac35825.png",
+    "static/media/magnifying-glass.png": "/My-App/static/media/magnifying-glass.fe2322dd28404af01bb0.png",
+    "static/media/turn-off.png": "/My-App/static/media/turn-off.f197e9c4ec273fadb636.png",
+    "static/media/new-card.png": "/My-App/static/media/new-card.41a45c6be38b70153885.png",
+    "static/media/id-card.png": "/My-App/static/media/id-card.f1bfdeff772dc1d750c5.png",
+    "static/media/sign-in-button.png": "/My-App/static/media/sign-in-button.d8dc9f4fe07534dac859.png",
+    "static/media/signIn.png": "/My-App/static/media/signIn.dd01864f209e52f71cf5.png",
+    "static/media/linkedin.png": "/My-App/static/media/linkedin.85b72e027a30afb278a5.png",
+    "static/media/delete.png": "/My-App/static/media/delete.b5d68e25ab3f6cd47475.png",
+    "static/media/house.png": "/My-App/static/media/house.640d0b1e39b36fd2550c.png",
+    "index.html": "/My-App/index.html",
+    "main.6e459363.css.map": "/My-App/static/css/main.6e459363.css.map",
+    "main.cf2d013f.js.map": "/My-App/static/js/main.cf2d013f.js.map",
+    "787.a5fa54f9.chunk.js.map": "/My-App/static/js/787.a5fa54f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e459363.css",
+    "static/js/main.cf2d013f.js"
+  ]
+}
